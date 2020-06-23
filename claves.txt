@@ -1,2 +1,3 @@
 usuario   clave
 cooa      1234
+betliz    456
